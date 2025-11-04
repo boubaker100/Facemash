@@ -1,0 +1,60 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "editor.fontSize": 15,
+    "diffEditor.wordWrap": "on",
+    "editor.formatOnSave": true,
+    "editor.guides.bracketPairs": true,
+    "debug.disassemblyView.showSourceCode": false,
+    "Codegeex.Privacy": true,
+    "database-client.autoSync": true,
+    "geminicodeassist.project": "",
+    "tabnine.experimentalAutoImports": true,
+    "files.autoSave": "afterDelay",
+    "Codegeex.License": "",
+    "editor.minimap.enabled": false,
+    "workbench.productIconTheme": "a-file-icon-vscode-product-icon-theme",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "tabnine.cloudHost": "fd",
+    "diffEditor.codeLens": true,
+    "bitoAI.appearance.fontSize (Match with IDE Font)": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "geminicodeassist.inlineSuggestions.enableAuto": true,
+    "Codegeex.EnableExtension": true,
+    "Codegeex.DisabledFor": {
+        "javascriptreact": true
+    },
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "continue.enableTabAutocomplete": true,
+    "workbench.colorCustomizations": {
+        "[Vira*]": {}
+    },
+    "editor.inlineSuggest.edits.showCollapsed": true,
+    "codegeex.codeLens.enableCodeLens": "enable",
+    "git.enableSmartCommit": true,
+    "files.associations": {
+        "*.toml": "toml",
+        "*.css": "tailwindcss"
+    },
+    "[toml]": {},
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+    "workbench.iconTheme": "vscode-icons",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "json.schemas": [
+        
+    ],  
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact",
+    "javascriptreact": "javascriptreact",
+    "typescriptreact": "typescriptreact"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "editor.quickSuggestions": {
+    "strings": true
+  }
+
+}
