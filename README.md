@@ -1,4 +1,4 @@
-📱 Next Social — Facebook-like Social Media Project
+📱 facemash — Facebook-like Social Media Project
 
 A full-featured social media platform built as a hands-on experiment to understand how social networks work under the hood.
 
